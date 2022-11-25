@@ -1,0 +1,48 @@
+commit 399825ffd129398393529deca4331fa8ccfc81f3
+Author: amboce <ana.borras.cebolla@gmail.com>
+Date:   Fri Nov 25 15:20:04 2022 +0100
+
+    deleted the NewReadme
+
+commit fce572e3d2838465edb4a16e8013c9dee8bc441d
+Merge: 98d36e3 469bfc4
+Author: amboce <ana.borras.cebolla@gmail.com>
+Date:   Fri Nov 25 14:45:24 2022 +0100
+
+    Merge branch 'B_branch' of https://github.com/amboce/Entrega_2_TADM
+
+commit 469bfc4475ad44703e2c891ba6d45198fc717ba5
+Author: asaigi <andreasaigi@hotmail.com>
+Date:   Thu Nov 24 13:25:38 2022 +0100
+
+    update .py
+
+commit 98d36e335178474fc020eb3be83798c8415b9c12
+Author: amboce <ana.borras.cebolla@gmail.com>
+Date:   Thu Nov 24 12:55:28 2022 +0100
+
+    update Readme.md
+
+commit 564043235e96b09fa634158ac8cccb6708364ef0
+Author: asaigi <andreasaigi@hotmail.com>
+Date:   Thu Nov 24 12:53:16 2022 +0100
+
+    update NewRead.me
+
+commit 117651327e27fb098d3bfd130d8b9e483d22f586
+Author: asaigi <andreasaigi@hotmail.com>
+Date:   Thu Nov 24 12:32:46 2022 +0100
+
+    add new B_branch + newReadme.md
+
+commit 4b687e9f41dc3a1a703fdda33e7b7df1b6164c47
+Author: amboce <ana.borras.cebolla@gmail.com>
+Date:   Thu Nov 24 11:52:47 2022 +0100
+
+    Primer python Entrega_2
+
+commit 10abfded95a92eec205a4182196496532b5cb8fe
+Author: amboce <ana.borras.cebolla@gmail.com>
+Date:   Thu Nov 24 11:34:59 2022 +0100
+
+    Primer commit entrega 2
